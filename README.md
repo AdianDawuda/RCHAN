@@ -5,6 +5,7 @@
 - [Wiki](#wiki)
 - [Abstract](#abstract)
 - [Run the Analysis](#run-the-analysis)
+- [License](#license)
 
 ## Wiki
 
@@ -17,3 +18,7 @@ The field of earth observation (EO) provides a growing amount of earth data, inc
 ## Run the Analysis
 
 All analysis steps can be found in a Jupyter Notebook on Google Colab. <mark> Insert link </mark>. To perform the analysis, the notebook needs access to a Google Drive account hosting the imagery. To use the final model to make predictions, the pretrained model with saved weights can be loaded.<mark> Insert link </mark>. To do this, skip all training steps and run the following block<mark> Insert image </mark>. In case you want to re-train the model the training data must also be hosted on Google Drive.
+
+## License
+
+See the LICENSE file for license rights and limitations (GPL v3.0).
