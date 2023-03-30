@@ -21,4 +21,4 @@ All analysis steps can be found in a Jupyter Notebook on Google Colab. <mark> In
 
 ## License
 
-See the LICENSE file for license rights and limitations (GPL v3.0).
+See the [LICENSE](https://git.sbg.ac.at/st22_512323/i3-project-st23-dawuda/-/blob/main/LICENSE) file for license rights and limitations ([GPL v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html)).
