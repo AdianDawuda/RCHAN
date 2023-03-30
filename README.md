@@ -9,7 +9,7 @@
 
 ## Wiki
 
-The project's wiki can be found [here](https://git.sbg.ac.at/st22_512323/i3-project-st23-dawuda/-/wikis/Deep-learning-based-road-segmentation-using-aerial-imagery-for-automated-change-detection)
+The project's wiki can be found [here](https://git.sbg.ac.at/st22_512323/i3-project-st23-dawuda/-/wikis/Deep-learning-based-road-segmentation-using-aerial-imagery-for-automated-change-detection) and includes a current project overview and time sheet.
 
 ## Abstract
 
