@@ -17,7 +17,7 @@ The field of earth observation (EO) provides a growing amount of earth data, inc
 
 ## Wiki
 
-The project's wiki can be found [here](https://git.sbg.ac.at/st22_512323/i3-project-st23-dawuda/-/wikis/Deep-learning-based-road-segmentation-using-aerial-imagery-for-automated-change-detection). It provides more in-depth information about the project, its status, and how to replicate the results.
+The project's wiki can be found [here](https://git.sbg.ac.at/st22_512323/i3-project-st23-dawuda/-/wikis/Deep-learning-based-road-segmentation-using-aerial-imagery-for-automated-change-detection-WIKI). It provides more in-depth information about the project, its status, and how to replicate the results.
 
 ## License
 
