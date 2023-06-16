@@ -1,5 +1,5 @@
 # Deep learning-based road segmentation using aerial imagery for automated change detection
-![sample](https://git.sbg.ac.at/st22_512323/i3-project-st23-dawuda/-/raw/main/display%20images/sample1.png)
+![sample](https://git.sbg.ac.at/st22_512323/i3-project-st23-dawuda/-/raw/main/display%20images/1_19.png)
 
 ## Contents
 
