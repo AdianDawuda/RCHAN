@@ -1,0 +1,6 @@
+The areas of the five locations used in the Cologne dataset:
+1 Lövenich
+2 Sürth
+3 Kalk
+4 Fühlingen
+5 Worringen
